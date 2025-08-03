@@ -86,7 +86,7 @@ Each model prints and optionally visualizes:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone this repository
 
