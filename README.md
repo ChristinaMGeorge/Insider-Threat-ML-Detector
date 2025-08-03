@@ -86,6 +86,11 @@ Each model prints and optionally visualizes:
 
 ---
 
+## ❗ Usage Terms
+
+**This repository is for academic and demonstration purposes only.  
+Reproduction, reuse, or redistribution of this work without permission is not allowed.**
+
 ##  How to Run
 
 ### 1. Clone this repository
